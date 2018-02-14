@@ -3,6 +3,7 @@ fun main(args:Array<String>){
     /*
       Get the input from the user and disply using readLine
 wow
+hello mahesh
      */
     
 
