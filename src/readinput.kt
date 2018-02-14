@@ -1,5 +1,11 @@
 fun main(args:Array<String>){
 
+    /*
+      Get the input from the user and disply using readLine
+
+     */
+
+
     println("========================")
 
     println("welcome to our company")
