@@ -10,9 +10,7 @@ fun main(args:Array<String>){
 
 
     // decrement the variable
-
     var second=20
     println(--second)
-
 
 }
